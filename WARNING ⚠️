@@ -1,0 +1,1 @@
+Warning: The hosts file modification in the PowerShell script null-routes domains like generativelanguage.googleapis.com and discord.com/api/webhooks. If your organization uses these services legitimately, comment out Step 3 in the script before deployment. A restart is required for LSA Protection to take full effect.
